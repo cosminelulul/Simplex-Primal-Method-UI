@@ -12,8 +12,8 @@ from tkinter import ttk, messagebox
 from fractions import Fraction
 import os
 
-from simplex-primal import solve
-from simplex-primal.core import format_fraction, format_fraction_plain
+from simplex_primal import solve
+from simplex_primal.core import format_fraction, format_fraction_plain
 
 # Theme #
 

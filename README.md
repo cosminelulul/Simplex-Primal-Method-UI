@@ -68,4 +68,4 @@ from simplex_primal.core import format_fraction, format_fraction_plain
 
 ## License
 
-MIT
+[MIT License](LICENSE)
